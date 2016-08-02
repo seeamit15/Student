@@ -18,6 +18,7 @@ public class Class {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("student.Class.main()");
+        System.out.println("Hello GIT");
     }
     
 }
