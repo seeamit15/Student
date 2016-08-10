@@ -19,6 +19,7 @@ public class Class {
         System.out.println("Hello");
         System.out.println("student.Class.main() updated");
         System.out.println("Hello GIT");
+        System.out.println("Testing pull");
     }
     
 }
