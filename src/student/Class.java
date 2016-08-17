@@ -17,6 +17,7 @@ public class Class {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
+        System.out.println("Hello from jdev");
         System.out.println("student.Class.main() updated");
         System.out.println("Hello GIT");
         System.out.println("Testing pull");
